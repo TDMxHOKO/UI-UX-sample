@@ -16,4 +16,4 @@
 
 [Live Demo](https://tdmxhoko.github.io/UI-UX-sample/)
 
-![UI Sample](https://raw.githubusercontent.com/TDMxHOKO/UI-UX-sample/refs/heads/main/UIUX/sample1desktop.jpg)
+![Preview](https://raw.githubusercontent.com/TDMxHOKO/UI-UX-sample/refs/heads/main/UIUX/sample1desktop.jpg)
