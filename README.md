@@ -14,6 +14,6 @@
 
 ## Demo  
 
-[Live Demo](https://tdmxhoko.github.io/Amir_front/)
+[Live Demo](https://tdmxhoko.github.io/ShopStore_Sample/)
 
 ![UI Sample](https://raw.githubusercontent.com/TDMxHOKO/UI-UX-sample/refs/heads/main/UIUX/sample1desktop.jpg)
