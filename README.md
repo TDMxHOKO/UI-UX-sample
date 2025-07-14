@@ -14,6 +14,6 @@
 
 ## Demo  
 
-[Live Demo](https://tdmxhoko.github.io/ShopStore_Sample/)
+[Live Demo](https://tdmxhoko.github.io/UI-UX-sample/)
 
 ![UI Sample](https://raw.githubusercontent.com/TDMxHOKO/UI-UX-sample/refs/heads/main/UIUX/sample1desktop.jpg)
