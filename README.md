@@ -1,5 +1,16 @@
 # UI-UX-sample
-My UI/UX projects built with HTML, CSS, and JavaScript.
+
+👋 This project showcases sample UI/UX designs focusing on layout and user experience principles.
+
+## Features
+- Clean and modern UI design  
+- Focus on usability and accessibility  
+- Responsive layouts for various devices
+
+## Technologies Used
+- HTML5  
+- CSS3  
+- Bootstrap 5
 
 
 ![UI Sample](https://raw.githubusercontent.com/TDMxHOKO/UI-UX-sample/refs/heads/main/UIUX/sample1desktop.jpg)
